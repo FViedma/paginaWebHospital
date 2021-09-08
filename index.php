@@ -64,12 +64,12 @@ if (isset($_POST['a_nuevo'])) {
 	<!-- Header -->
 	<header id="home">
 		<!-- Background Image -->
-		<div class="bg-img" style="background-image: url('./img/P1.jpg');">
+		<div class="bg-img" style="background-image: url('./img/P1.webp');">
 			<div id="about-slider" class="owl-carousel owl-theme bg-img">
-				<img style="background-image: url('./img/P1.jpg');" class="img-responsive">
-				<img class="img-responsive" src="./img/P2.jpg" alt="">
-				<img class="img-responsive" src="./img/P3.jpg" alt="">
-				<img class="img-responsive" src="./img/P4.jpg" alt="">
+				<img style="background-image: url('./img/P1.webp');" class="img-responsive">
+				<img class="img-responsive" src="./img/P2.webp" alt="">
+				<img class="img-responsive" src="./img/P3.webp" alt="">
+				<img class="img-responsive" src="./img/P4.webp" alt="">
 			</div>
 			<div class="overlay"></div>
 		</div>
@@ -344,7 +344,7 @@ if (isset($_POST['a_nuevo'])) {
 					<div class="team">
 						<div class="team-img">
 							<h5 align="center">Jefatura de Medicina</h5>
-							<img class="img-responsive" src="./img/usuario.jpg" alt="" style="
+							<img class="img-responsive" src="./img/usuario.webp" alt="" style="
 									width: 97%">
 						</div>
 						<div class="team-content">
@@ -360,7 +360,7 @@ if (isset($_POST['a_nuevo'])) {
 					<div class="team">
 						<div class="team-img">
 							<h5 align="center">Jefatura de Cirug&iacute;a</h5>
-							<img class="img-responsive" src="./img/usuario.jpg" alt="" style="
+							<img class="img-responsive" src="./img/usuario.webp" alt="" style="
 									width: 97%">
 						</div>
 						<div class="team-content">
@@ -376,7 +376,7 @@ if (isset($_POST['a_nuevo'])) {
 					<div class="team">
 						<div class="team-img">
 							<h5 align="center">Jefatura de Enseñanza e Investigaci&oacute;n</h5>
-							<img class="img-responsive" src="./img/luisrodriguez.jpg" alt="" style="
+							<img class="img-responsive" src="./img/luisrodriguez.webp" alt="" style="
 									width: 80%">
 						</div>
 						<div class="team-content">
@@ -400,7 +400,7 @@ if (isset($_POST['a_nuevo'])) {
 	<div id="numbers" class="section sm-padding">
 
 		<!-- Background Image -->
-		<div class="bg-img" style="background-image: url('./img/P1.jpg');">
+		<div class="bg-img" style="background-image: url('./img/P1.webp');">
 			<div class="overlay"></div>
 		</div>
 		<!-- /Background Image -->
