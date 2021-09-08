@@ -132,7 +132,12 @@ $sql = "INSERT INTO `blog_viedma`(`nombre_p`,`email`,`asunto`,`mensaje`,`fecha_r
 		</div>
 		<!-- /home wrapper -->
 		<br>
-        <div style="position:fixed"><a href="https://webrtc.us2.ympcloud.com/webrtc/00037d878e6e4a4217dea2d6b2281360ba1" target="_blank"><button  type="button" class="btn btn-primary responsive"><b>LL&AacuteMENOS GRATIS</b> click aqu&iacute</button></a>	</div>
+        <div style="position:fixed"><a href="https://webrtc.us2.ympcloud.com/webrtc/00037d878e6e4a4217dea2d6b2281360ba1" target="_blank"><button  type="button" class="btn btn-primary responsive"><i class="fa fa-phone fa-2x" aria-hidden="true"></i><b> LL&AacuteMENOS PARA RESERVAR</b></button></a>	</div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<div style="position:fixed"><a href="http://reservas.hospitalviedma.org" target="_blank"><button  type="button" class="btn btn-primary responsive"><i class="fa fa-calendar-check-o fa-3x" aria-hidden="true"></i><b> VISITE LA PÁGINA PARA RESERVAR</b></button></a>	</div>
 	</header>
 	<!-- /Header -->
 
