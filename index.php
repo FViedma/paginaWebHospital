@@ -31,32 +31,7 @@ if (isset($_POST['a_nuevo'])) {
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
 	<title>Hospital Cl&iacute;nico Viedma</title>
-
-	<!-- Google font -->
-	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CVarela+Round" rel="stylesheet">
-
-	<!-- Bootstrap -->
-	<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" />
-
-	<!-- Owl Carousel -->
-	<link type="text/css" rel="stylesheet" href="css/owl.carousel.css" />
-	<link type="text/css" rel="stylesheet" href="css/owl.theme.default.css" />
-
-	<!-- Magnific Popup -->
-	<link type="text/css" rel="stylesheet" href="css/magnific-popup.css" />
-
-	<!-- Font Awesome Icon -->
-	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<link rel="shortcut icon" href="favicon.jpg">
-	<!-- Custom stlylesheet -->
-	<link type="text/css" rel="stylesheet" href="css/style.min.css" />
-
-	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-	<!--[if lt IE 9]>
-		<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-	<![endif]-->
 	<meta name="google-site-verification" content="ojmFmKHopRKR5Dkl7jG--vkly-R_xtus2sLW0_UjVWY" />
 </head>
 
@@ -67,9 +42,9 @@ if (isset($_POST['a_nuevo'])) {
 		<div class="bg-img" style="background-image: url('./img/P1.webp');">
 			<div id="about-slider" class="owl-carousel owl-theme bg-img">
 				<img style="background-image: url('./img/P1.webp');" class="img-responsive">
-				<img class="img-responsive" src="./img/P2.webp" alt="">
-				<img class="img-responsive" src="./img/P3.webp" alt="">
-				<img class="img-responsive" src="./img/P4.webp" alt="">
+				<amp-img class="img-responsive" src="./img/P2.webp" alt=""></amp-img>
+				<amp-img class="img-responsive" src="./img/P3.webp" alt=""></amp-img>
+				<amp-img class="img-responsive" src="./img/P4.webp" alt=""></amp-img>
 			</div>
 			<div class="overlay"></div>
 		</div>
@@ -323,7 +298,7 @@ if (isset($_POST['a_nuevo'])) {
 					<div class="team">
 						<div class="team-img">
 							<h5 align="center">Sub-Director Médico</h5>
-								<img class="img-responsive" src="./img/amaya.jpeg" alt="" style="
+							<img class="img-responsive" src="./img/amaya.jpeg" alt="" style="
 									width: 73%">
 						</div>
 						<div class="team-content">
@@ -802,7 +777,24 @@ if (isset($_POST['a_nuevo'])) {
 	<script type="text/javascript" src="js/owl.carousel.min.js"></script>
 	<script type="text/javascript" src="js/jquery.magnific-popup.js"></script>
 	<script type="text/javascript" src="js/main.min.js"></script>
+	<!-- Google font -->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CVarela+Round" rel="stylesheet">
 
+	<!-- Bootstrap -->
+	<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" />
+
+	<!-- Owl Carousel -->
+	<link type="text/css" rel="stylesheet" href="css/owl.carousel.css" />
+	<link type="text/css" rel="stylesheet" href="css/owl.theme.default.css" />
+
+	<!-- Magnific Popup -->
+	<link type="text/css" rel="stylesheet" href="css/magnific-popup.css" />
+
+	<!-- Font Awesome Icon -->
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	
+	<!-- Custom stlylesheet -->
+	<link type="text/css" rel="stylesheet" href="css/style.min.css" />
 </body>
 
 </html>
