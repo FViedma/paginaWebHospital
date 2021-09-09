@@ -32,6 +32,24 @@ if (isset($_POST['a_nuevo'])) {
 
 	<title>Hospital Cl&iacute;nico Viedma</title>
 	<link rel="shortcut icon" href="favicon.jpg">
+	<!-- Google font -->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CVarela+Round" rel="stylesheet">
+
+	<!-- Bootstrap -->
+	<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" />
+
+	<!-- Owl Carousel -->
+	<link type="text/css" rel="stylesheet" href="css/owl.carousel.css" />
+	<link type="text/css" rel="stylesheet" href="css/owl.theme.default.css" />
+
+	<!-- Magnific Popup -->
+	<link type="text/css" rel="stylesheet" href="css/magnific-popup.css" />
+
+	<!-- Font Awesome Icon -->
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	
+	<!-- Custom stlylesheet -->
+	<link type="text/css" rel="stylesheet" href="css/style.min.css" />
 	<meta name="google-site-verification" content="ojmFmKHopRKR5Dkl7jG--vkly-R_xtus2sLW0_UjVWY" />
 </head>
 
@@ -260,7 +278,7 @@ if (isset($_POST['a_nuevo'])) {
 						<h5 align="center">Direcci&oacute;n</h5>
 
 						<div class="team-img">
-							<img class="img-responsive" src="./img/directora.jpeg" alt="" style="
+							<img class="img-responsive" src="./img/directora.webp" alt="" style="
 									width: 77%">
 						</div>
 						<div class="team-content">
@@ -279,7 +297,7 @@ if (isset($_POST['a_nuevo'])) {
 					<div class="team">
 						<div class="team-img">
 							<h5 align="center">Direcci&oacute;n Administrativa y Financiera</h5>
-							<img class="img-responsive" src="./img/mterceros.jpeg" alt="" style="
+							<img class="img-responsive" src="./img/mterceros.webp" alt="" style="
 									width: 70%">
 						</div>
 						<div class="team-content">
@@ -298,7 +316,7 @@ if (isset($_POST['a_nuevo'])) {
 					<div class="team">
 						<div class="team-img">
 							<h5 align="center">Sub-Director Médico</h5>
-							<img class="img-responsive" src="./img/amaya.jpeg" alt="" style="
+							<img class="img-responsive" src="./img/amaya.webp" alt="" style="
 									width: 73%">
 						</div>
 						<div class="team-content">
@@ -777,24 +795,7 @@ if (isset($_POST['a_nuevo'])) {
 	<script type="text/javascript" src="js/owl.carousel.min.js"></script>
 	<script type="text/javascript" src="js/jquery.magnific-popup.js"></script>
 	<script type="text/javascript" src="js/main.min.js"></script>
-	<!-- Google font -->
-	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CVarela+Round" rel="stylesheet">
-
-	<!-- Bootstrap -->
-	<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" />
-
-	<!-- Owl Carousel -->
-	<link type="text/css" rel="stylesheet" href="css/owl.carousel.css" />
-	<link type="text/css" rel="stylesheet" href="css/owl.theme.default.css" />
-
-	<!-- Magnific Popup -->
-	<link type="text/css" rel="stylesheet" href="css/magnific-popup.css" />
-
-	<!-- Font Awesome Icon -->
-	<link rel="stylesheet" href="css/font-awesome.min.css">
 	
-	<!-- Custom stlylesheet -->
-	<link type="text/css" rel="stylesheet" href="css/style.min.css" />
 </body>
 
 </html>
