@@ -39,8 +39,8 @@ if (isset($_POST['a_nuevo'])) {
 	<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" />
 
 	<!-- Owl Carousel -->
-	<link type="text/css" rel="stylesheet" href="css/owl.carousel.css" />
-	<link type="text/css" rel="stylesheet" href="css/owl.theme.default.css" />
+	<link type="text/css" rel="stylesheet" href="css/owl.carousel.min.css" />
+	<link type="text/css" rel="stylesheet" href="css/owl.theme.default.min.css" />
 
 	<!-- Magnific Popup -->
 	<link type="text/css" rel="stylesheet" href="css/magnific-popup.css" />
